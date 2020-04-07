@@ -1,5 +1,5 @@
 # GlobalMappingRegions
-Region shapefiles and JSONs
+
 
 Shapefiles converted to JSON files in ArcPRO as follows.
 Polygon Select By Attribute.
