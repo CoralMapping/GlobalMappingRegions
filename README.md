@@ -1,11 +1,8 @@
 # GlobalMappingRegions
 
 
-Shapefiles converted to JSON files in ArcPRO as follows.
-Polygon Select By Attribute.
-Feature to JSON:Output to GeoJSON and Project to WGS_1984.
+This repository contain region masks delivered by UQ team for Vulcan team to request Planet data
 
-A separate repository exists for Field Planning and Sub-Regions (GlobalRegions_FieldPlanning_Etc)
 
 
 # REGIONS
