@@ -13,6 +13,9 @@ A separate repository exists for Field Planning and Sub-Regions (GlobalRegions_F
 2. West Micronesia
 3. Northern Caribbean and Bahamas
 4. East Africa
-5. West Indian Ocean Islands
+5. hawaiianIsland
+6. West Indian Ocean Islands
+7. AndamanSea
+8. TimorSea
 
 
