@@ -10,6 +10,9 @@ This repository contain region masks delivered by UQ team for Vulcan team to req
 2. West Micronesia
 3. Northern Caribbean and Bahamas
 4. East Africa
-5. West Indian Ocean Islands
+5. hawaiianIsland
+6. West Indian Ocean Islands
+7. AndamanSea
+8. TimorSea
 
 
