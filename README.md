@@ -13,6 +13,6 @@ This repository contain region masks delivered by UQ team for Vulcan team to req
 5. hawaiianIsland
 6. West Indian Ocean Islands
 7. AndamanSea
-8. TimorSea
+8. TimorSea///
 
 
