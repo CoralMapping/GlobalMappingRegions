@@ -5,8 +5,8 @@ This repository contain region masks delivered by UQ team for Vulcan team to req
 
 
 
-# REGIONS LOADED as of 27 May 2020
-1. South West Pacific
+# REGIONS LOADED as of 2 June 2020
+1. South West Pacific (v2)
 2. West Micronesia
 3. Northern Caribbean and Bahamas
 4. East Africa
@@ -23,4 +23,5 @@ This repository contain region masks delivered by UQ team for Vulcan team to req
 15. Mesoamerican
 16. Southeastern Caribbean
 17. GBR and Torres Strait
+18. Indonesia
 
