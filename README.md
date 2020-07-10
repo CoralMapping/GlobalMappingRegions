@@ -27,3 +27,7 @@ This repository contain region masks delivered by UQ team for Vulcan team to req
 19. Red Sea
 20. South China Sea
 21. Northwest China Sea
+22. Gulf of Aden
+23. Northwest Arabian Sea
+24. East Micronesia
+25. Central South Pacific
