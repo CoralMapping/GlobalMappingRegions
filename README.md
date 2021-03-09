@@ -36,3 +36,4 @@ This repository contain region masks delivered by UQ team for Vulcan team to req
 28. Subtropical Eastern Australia
 29. Small Systems
 30. Updated global reef mask
+31. Bermuda (out of the original global mask)
