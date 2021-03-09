@@ -5,7 +5,7 @@ This repository contain region masks delivered by UQ team for Vulcan team to req
 
 
 
-# REGIONS LOADED as of 24 July 2020
+# REGIONS LOADED as of 9 March 2021
 1. South West Pacific (v2)
 2. West Micronesia
 3. Northern Caribbean and Bahamas
