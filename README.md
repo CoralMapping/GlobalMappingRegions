@@ -5,7 +5,7 @@ This repository contain region masks delivered by UQ team for Vulcan team to req
 
 
 
-# REGIONS LOADED as of 9 March 2021
+# REGIONS LOADED as of 16 March 2021
 1. South West Pacific (v2)
 2. West Micronesia
 3. Northern Caribbean and Bahamas
@@ -37,3 +37,4 @@ This repository contain region masks delivered by UQ team for Vulcan team to req
 29. Small Systems
 30. Updated global reef mask
 31. Bermuda (out of the original global mask)
+32. Lord Howe Island (out of the original global mask)
